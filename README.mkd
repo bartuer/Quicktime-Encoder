@@ -1,5 +1,5 @@
 Install FLV Components
 ----------------------
-
+this is encoder useful for Windows users
 Copy src/FLV.component into /Library/QuickTime
 
